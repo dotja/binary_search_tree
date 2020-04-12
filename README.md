@@ -1,2 +1,2 @@
-# binary_search_tree
+# binary search tree (BST)
 C++ code for binary search tree
